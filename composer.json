@@ -1,0 +1,14 @@
+{
+    "name": "liuwz465501235/demo",
+    "description": "composer study demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "刘维中",
+            "email": "liuwz@gvgcn.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
