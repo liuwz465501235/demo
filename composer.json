@@ -3,7 +3,6 @@
     "description": "composer study demo",
     "type": "project",
     "license": "MIT",
-    "version": "1.0",
     "authors": [
         {
             "name": "刘维中",
