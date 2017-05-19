@@ -3,6 +3,7 @@
     "description": "composer study demo",
     "type": "project",
     "license": "MIT",
+    "version": "1.0",
     "authors": [
         {
             "name": "刘维中",
@@ -10,5 +11,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core"
+        }
+    }
 }
